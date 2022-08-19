@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWithBongeka
 - 👀 I’m interested in software development and mobile app development 
-- 🌱 I’m currently learning python, Java, Android studio
+- 🌱 I’m currently learning python, Java, Android studio, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on Android app projects
 - 📫 How to reach me - you can reach me by emailing caluzabongeka@gmail.com 
 
